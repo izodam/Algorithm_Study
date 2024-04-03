@@ -18,12 +18,17 @@
     <td align="center"><a href="https://github.com/AndCookie"><img src="https://avatars.githubusercontent.com/AndCookie" width="130px;" alt=""></td>
     <td align="center"><a href="https://github.com/blackburi"><img src="https://avatars.githubusercontent.com/blackburi" width="130px;" alt=""></td>
     <td align="center"><a href="https://github.com/dhckdtjs"><img src="https://avatars.githubusercontent.com/dhckdtjs" width="130px;" alt=""></td>
+    <td align="center"><a href="https://github.com/dhckdtjs"><img src="https://avatars.githubusercontent.com/dhckdtjs" width="130px;" alt=""></td>
+    <td align="center"><a href="https://github.com/kyuahkim"><img src="https://avatars.githubusercontent.com/kyuahkim" width="130px;" alt=""></td>
+    <td align="center"><a href="https://github.com/gihyun0720"><img src="https://avatars.githubusercontent.com/gihyun0720" width="130px;" alt=""></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/izodam"><b>김주연</b></td>
     <td align="center"><a href="https://github.com/AndCookie"><b>이선재</b></td>
     <td align="center"><a href="https://github.com/blackburi"><b>김태경</b></td>
     <td align="center"><a href="https://github.com/dhckdtjs"><b>오창선</b></td>
+    <td align="center"><a href="https://github.com/kyuahkim"><b>김규아</b></td>
+    <td align="center"><a href="https://github.com/gihyun0720"><b>박기현</b></td>
     
   </tr>
 </table>
