@@ -18,7 +18,6 @@
     <td align="center"><a href="https://github.com/AndCookie"><img src="https://avatars.githubusercontent.com/AndCookie" width="130px;" alt=""></td>
     <td align="center"><a href="https://github.com/blackburi"><img src="https://avatars.githubusercontent.com/blackburi" width="130px;" alt=""></td>
     <td align="center"><a href="https://github.com/dhckdtjs"><img src="https://avatars.githubusercontent.com/dhckdtjs" width="130px;" alt=""></td>
-    <td align="center"><a href="https://github.com/dhckdtjs"><img src="https://avatars.githubusercontent.com/dhckdtjs" width="130px;" alt=""></td>
     <td align="center"><a href="https://github.com/kyuahkim"><img src="https://avatars.githubusercontent.com/kyuahkim" width="130px;" alt=""></td>
     <td align="center"><a href="https://github.com/gihyun0720"><img src="https://avatars.githubusercontent.com/gihyun0720" width="130px;" alt=""></td>
   </tr>
