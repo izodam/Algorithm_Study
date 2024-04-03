@@ -1,4 +1,4 @@
-# 💻Algorithm_Study
+# <img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2020/07/24/09/25/machine-learning-5433370_1280.png">Algorithm_Study
 
 알고리즘 스터디에서 풀었던 문제의 코드를 올리는 repository 입니다.
 
