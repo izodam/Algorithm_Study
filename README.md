@@ -1,6 +1,6 @@
 # 💻Algorithm_Study
 
-알고리즘 스터디에서 풀었던 문제의 제 코드를 올리는 repository 입니다.
+알고리즘 스터디에서 풀었던 문제의 코드를 올리는 repository 입니다.
 
 ### ✍우리 스터디에서는요,
 
@@ -33,29 +33,21 @@
 
 <table>
   <tr>
-    <td>날짜</td>
-    <td>알고리즘</td>
-    <td>문제</td>
-    <td>난이도</td>
+    <td align=center><b>날짜</b></td>
+    <td align=center><b>알고리즘</b></td>
+    <td align=center><b>문제</b></td>
   </tr>
   <tr>
-    <td>~ 04/03</td>
+    <td align=center>~ 04/03</td>
     <td>DP</td>
-    <td>
+    <td align=center>
       <p align=left> 
-      <a href="https://www.acmicpc.net/problem/9095">1️⃣ 1,2,3 더하기 <br> 
-      <a href="https://www.acmicpc.net/problem/1149">2️⃣ RGB거리 <br> 
-      <a href="https://www.acmicpc.net/problem/1463">3️⃣ 1로 만들기 <br> 
-      <a href="https://www.acmicpc.net/problem/1932">4️⃣ 정수 삼각형 <br> 
-      <a href="https://www.acmicpc.net/problem/14501">5️⃣ 퇴사
+      <a href="https://www.acmicpc.net/problem/9095"><img height="20px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg"/> 1,2,3 더하기 <br> 
+      <a href="https://www.acmicpc.net/problem/1149"><img height="20px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"/> RGB거리 <br> 
+      <a href="https://www.acmicpc.net/problem/1463"><img height="20px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg"/> 1로 만들기 <br> 
+      <a href="https://www.acmicpc.net/problem/1932"><img height="20px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"/> 정수 삼각형 <br> 
+      <a href="https://www.acmicpc.net/problem/14501"><img height="20px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg"/> 퇴사
       </p>
-    </td>
-    <td>
-      <img height="20px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg"/> <br> 
-      <img height="20px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"/> <br> 
-      <img height="20px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg"/> <br> 
-      <img height="20px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"/> <br> 
-      <img height="20px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg"/>
     </td>
   </tr>
 </table>
