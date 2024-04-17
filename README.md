@@ -59,11 +59,22 @@
     <td align=center>백트래킹</td>
     <td align=center>
       <p align=left> 
-      <a href="https://www.acmicpc.net/problem/1182"><img height="20px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"/> 부분수열의 합 <br> 
+      <a href="https://www.acmicpc.net/problem/12908"><img height="20px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"/> 부분수열의 합 <br> 
       <a href="https://www.acmicpc.net/problem/2961"><img height="20px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"/> 도영이가 만든 맛있는 음식 <br> 
       <a href="https://www.acmicpc.net/problem/9663"><img height="20px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"/> N-Queen <br> 
       <a href="https://www.acmicpc.net/problem/1941"><img height="20px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"/> 소문난 칠공주 <br> 
       <a href="https://www.acmicpc.net/problem/15684"><img height="20px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"/> 사다리 조작
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align=center>~ 04/23</td>
+    <td align=center>백트래킹</td>
+    <td align=center>
+      <p align=left> 
+      <a href="https://www.acmicpc.net/problem/1182"><img height="20px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"/> 텔레포트 3 <br>
+      <a href="https://www.acmicpc.net/problem/1759"><img height="20px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"/> 암호 만들기 <br> 
+      <a href="https://www.acmicpc.net/problem/18809"><img height="20px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"/> Gaaaaaaaaaarden <br> 
       </p>
     </td>
   </tr>
